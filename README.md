@@ -2,9 +2,9 @@
 
 ![Albertyo Chandra](https://github.com/Albertyoch/Albertyoch/assets/117698723/c0daf6a4-86c0-49a4-b1d6-92ac032aa9e8)
 
-Hello! I'm Albertyo Chandra - Call me Albert for easy remembering, a passionate finance graduate with a keen interest in harnessing the power of data to drive insightful decision-making. My transformative journey from finance to data analytics/science reflects my heavy commitment to flexibility and continuous learning.
+Hello! I'm Albertyo Chandra - Call me Albert for easy remembering, a passionate finance and business analytics graduate with a keen interest in harnessing the power of data to drive insightful decision-making. My transformative journey from finance to data analytics/science reflects my heavy commitment to flexibility and continuous learning.
 
-🔭 I’m currently working as an intern at a Sydney-based company in the role of a Data Scientist. 
+🔭 I’m currently pursuing Master's degree at Hofstra University in New York. 
 🌱 I am actively enhancing my skills by diversifying my portfolio across various branches of data analytics tools and programming languages. This includes:
 - Data ingesting and Profiling data using Python
 - Transforming and Cleaning data (mainly in Python)
