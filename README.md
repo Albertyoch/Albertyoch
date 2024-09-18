@@ -19,7 +19,7 @@ Hello! I'm Albertyo Chandra - Call me Albert for easy remembering, a passionate 
 - Visualization = Tableau and Excel
 
 ### Projects 📝:
-Go head to the pinned repos above to see my progress and feel free to give me input!
+Head to the pinned repos above to see my progress and feel free to give me input!
 
 
 
